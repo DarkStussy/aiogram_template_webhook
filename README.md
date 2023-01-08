@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Very simple aiogram bot template. Reference and idea: https://github.com/Tishka17/tgbot_template
+Very simple aiogram bot template with webhook (work only with HTTPS protocol). Reference and idea: https://github.com/Tishka17/tgbot_template
 
 Stack: aiogram, PostgreSQL (SQLAlchemy + asyncpg), redis, alembic + psycopg2.
 
